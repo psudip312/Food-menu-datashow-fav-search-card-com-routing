@@ -34,7 +34,7 @@ const Home = () => {
         </div>
       </nav>
       <h1>Food Menu</h1>
-      <button></button>
+      
       <div className="buttonContainer">
         <button className="arrowButton">Food Items ▼</button>
         <button onClick={() => navigate("/fooddetails")}>See all Items</button>

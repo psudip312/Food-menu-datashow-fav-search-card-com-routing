@@ -6,6 +6,18 @@
   .card {
     position: relative;
     background-color:bisque;
+    height: 600px
+
+  }
+  .heading{
+      color: black;
+      text-decoration: solid;
+     
+    }
+  .price{
+    color: black;
+    text-decoration: solid;
+    font-size: 20px;
   }
   
   .favorite-button {
@@ -17,10 +29,10 @@
     border: none;
     outline: none;
     cursor: pointer;
-    color: white;
-    font-size: 20px
+    color:black;
+    font-size: 30px
   }
   .favorite-button.favorite-active {
-    color: darkred;
+    color: red
   }
   
