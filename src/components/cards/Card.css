@@ -1,0 +1,26 @@
+
+.favorite-icon {
+    color: red;
+    font-size: 20px;
+  }
+  .card {
+    position: relative;
+    background-color:bisque;
+  }
+  
+  .favorite-button {
+    font-size: small;
+    position: absolute;
+    top: 30px;
+    right: 40px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    font-size: 20px
+  }
+  .favorite-button.favorite-active {
+    color: darkred;
+  }
+  

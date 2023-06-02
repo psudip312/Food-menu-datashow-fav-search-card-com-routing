@@ -1,0 +1,74 @@
+{
+  "fooddata": [
+    {
+      "id": 1,
+      "name": "Pizza",
+      "price": 10,
+      "description": "Pizza is a dish of Italian origin consisting of a such as tomato sauce, cheese, and vegetables.",
+      "image": "https://sipbitego.com/wp-content/uploads/2021/08/Pepperoni-Pizza-Recipe-Sip-Bite-Go.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Margherita",
+      "price": 15,
+      "description": "Margherita is a classic Italian pizza topped with tomatoes, mozzarella cheese, and basil leaves.",
+      "image": "https://www.foodandwine.com/thmb/3kzG4PWOAgZIIfZwMBLKqoTkaGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/margherita-pizza-with-argula-and-prosciutto-FT-RECIPE0721-04368ec288a84d2e997573aca0001d98.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Pasta",
+      "price": 12,
+      "description": "Pasta is a staple food of Italian cuisine made from durum wheat and typically served with various sauces.",
+      "image": "https://www.thespruceeats.com/thmb/S3VnVqIAAFg5pM6auqvP9ynkNLw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/creamy-tomato-pasta-481963-hero-01-da2897ca4ccd4673849c017642e6d827.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Burger",
+      "price": 8,
+      "description": "A classic American dish consisting of a grilled or fried patty made from ground beef, served in a bun and typically topped with lettuce, tomato, onion, pickles, and condiments.",
+      "image": "https://insanelygoodrecipes.com/wp-content/uploads/2020/02/Burger-and-Fries.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sushi",
+      "price": 12,
+      "description": "A Japanese delicacy consisting of vinegared rice combined with various ingredients such as raw or cooked seafood, vegetables, and sometimes tropical fruits.",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/spicy-crab-rolls4-1654808938.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=1200:*"
+    },
+    {
+      "id": 6,
+      "name": "Tacos",
+      "price": 9,
+      "description": "Traditional Mexican dish made of a tortilla filled with various ingredients, such as seasoned meat, beans, cheese, lettuce, and salsa.",
+      "image": "https://img.taste.com.au/R_dRdL7V/taste/2022/09/healthy-tacos-recipe-181113-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pasta Carbonara",
+      "price": 14,
+      "description": "An Italian pasta dish made with spaghetti or other long pasta, eggs, cheese (typically Pecorino Romano), pancetta (or bacon), and black pepper.",
+      "image": "https://www.sipandfeast.com/wp-content/uploads/2022/09/spaghetti-carbonara-recipe-snippet.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Steak",
+      "price": 20,
+      "description": "A prime cut of beef, usually grilled or pan-seared and served with various side dishes like mashed potatoes, vegetables, or a salad.",
+      "image": "https://www.skinnytaste.com/wp-content/uploads/2022/03/Air-Fryer-Steak-6.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Sushi Burrito",
+      "price": 11,
+      "description": "A fusion of sushi and burrito, it features a large rolled sushi wrapped in a seaweed sheet and filled with sushi rice, raw or cooked seafood, vegetables, and sauces.",
+      "image": "https://www.emilieeats.com/wp-content/uploads/2017/08/vegan-teriyaki-sushi-burrito-vegan-gluten-free-healthy-easy-dinner-11.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Chicken Curry",
+        "price": 13,
+        "description": "A flavorful dish made with chicken, aromatic spices, and a rich curry sauce, often served with rice or naan bread.",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Chicken-Curry-recipe-750x750.jpg"
+        }
+  ]
+}

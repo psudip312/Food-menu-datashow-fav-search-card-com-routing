@@ -1,0 +1,54 @@
+.buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    gap: 800px;
+  }
+  .arrowButton {
+    position: relative;
+  }
+  
+  .arrowButton::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid black;
+  }
+  .cardcontnent{
+    gap:30px;
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f5f5f5;
+  }
+  
+  .navbar-left img {
+    height: 40px;
+  }
+  
+  .navbar-middle {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-middle input[type="text"] {
+    margin-right: 10px;
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-right > * {
+    margin-left: 10px;
+  }
+  
